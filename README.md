@@ -7,5 +7,6 @@ Unsure atm whether this will be uploaded to PyPi or incorporated directly into t
 
 
 # TODO:
-1: Change structure to library  
-2: Determine whether or not this will be uploaded to PyPi
+1. Change structure to library
+2. Tests
+3. Determine whether or not this will be uploaded to PyPi
